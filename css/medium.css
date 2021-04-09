@@ -1,0 +1,12 @@
+.bg-yellow{
+    background-color: #feb716;
+}
+body{
+    font-family: sans-serif;
+}
+.aside-buttons li{
+   margin: 8px;
+}
+.border-top-dark{
+    border-top: 1px solid black;
+}
